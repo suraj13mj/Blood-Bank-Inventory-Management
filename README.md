@@ -7,8 +7,8 @@ Blood Bank Management System aims to store the information of all the different 
  * To use DDL effectively to create the back end for storing the information.
  * To write the SQL queries to store and retrieve the information.
 
-**Programming Language : Java ( GUI - Java Swings)**
-**Database : MySQL (XAMPP)**
+Programming Language : **Java ( GUI - Java Swings)**  
+Database : **MySQL (XAMPP)**
 
 Screenshots:
 Home Tab | Donate Tab - 1
